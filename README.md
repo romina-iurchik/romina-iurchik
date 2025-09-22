@@ -4,7 +4,8 @@
 💻 Desarrolladora Backend  
 🌱 Cursando en [Ethkipu](https://ethkipu.org) — desarrollo seguro y contratos inteligentes en Ethereum  
 ⚙️ Participando en **DevPack3**  
-🚀 Colaborando en el proyecto [PlantBuddies](https://github.com/LunaBujalesky/PlantBuddies2)
+🚀 Colaborando en el proyecto [PlantBuddies](https://github.com/LunaBujalesky/PlantBuddies2)  
+⌛ A la espera de aplicar en [BuendíaBuilders](https://buendiabuilders.com/)
 
 ---
 
