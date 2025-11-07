@@ -16,8 +16,6 @@ Me apasiona construir soluciones funcionales, bien estructuradas y con propósit
 ✅ Finalicé el **Curso Fullstack Java**  
 👩‍🎓 Técnica Superior en Programación  
 
-Actualmente me encuentro explorando nuevas tecnologías en el ecosistema **Ethereum**, enfocándome en **desarrollo seguro y contratos inteligentes** con [Ethkipu](https://ethkipu.org), y creciendo como parte del programa intensivo **DevPack3**.
-
 ---
 
 ### 🛠️ Tecnologías que uso y disfruto
