@@ -1,11 +1,9 @@
 <h1>¡GM! Soy Romina 👋🚀✨</h1>
 
 🌟 Técnica Superior en Programación  
-💻 Desarrolladora Backend  
-🌱 Cursando en [Ethkipu](https://ethkipu.org) — desarrollo seguro y contratos inteligentes en Ethereum  
-⚙️ Participando en **DevPack3**  
+💻 Desarrolladora Backend    
 🚀 Colaborando en el proyecto [PlantBuddies](https://github.com/LunaBujalesky/PlantBuddies2)  
-⌛ A la espera de aplicar en [BuendíaBuilders](https://buendiabuilders.com/) 🤞🏻🍀🚀
+🦈 Cursando con [BuendíaBuilders](https://buendiabuilders.com/) 🤞🏻🍀🚀
 
 ---
 
@@ -59,9 +57,7 @@ Stack: Node.js, Express, PostgreSQL.
 - 👩‍🎓 Técnica Superior en Programación  
 - 🏁 Curso Fullstack Java — finalizado  
 - 🏁 Especialización en Desarrollo Backend — finalizada  
-- 🧠 Actualmente cursando en [Ethkipu](https://ethkipu.org) — desarrollo seguro y contratos inteligentes en Ethereum  
-- ⚙️ Participando en **DevPack3**
-
+- 🦈 Cursando con [BuendíaBuilders](https://buendiabuilders.com/) 🤞🏻🍀🚀
 ---
 
 ### 📫 ¿Conectamos?
