@@ -2,9 +2,6 @@
 
 🌟 Técnica Superior en Programación  
 💻 Desarrolladora Backend    
-🚀 Colaborando en el proyecto [PlantBuddies](https://github.com/LunaBujalesky/PlantBuddies2)  
-🦈 Cursando con [BuendíaBuilders](https://buendiabuilders.com/) 🤞🏻🍀🚀
-
 ---
 
 ### 👩‍💻 Sobre mí
@@ -29,17 +26,11 @@ Me apasiona construir soluciones funcionales, bien estructuradas y con propósit
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-E05D44?style=flat&logo=rust&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban-7d46ff?style=flat&logo=stellar&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=flat&logo=web3.js&logoColor=white)
 
 ---
-
-### 🌿 Proyecto actual
-
-💚 [**PlantBuddies**](https://github.com/LunaBujalesky/PlantBuddies2)  
-Colaborando en el desarrollo backend de esta app que conecta a amantes de las plantas 🌱  
-Stack: Node.js, Express, PostgreSQL.
-
----
-
 ### 🚀 Proyectos personales
 
 📦 [**integrador_backend**](https://github.com/romina-iurchik/integrador_backend): API REST en JavaScript para explorar contenido audiovisual.  
@@ -50,13 +41,6 @@ Stack: Node.js, Express, PostgreSQL.
 
 ---
 
-### 📚 Formación
-
-- 👩‍🎓 Técnica Superior en Programación  
-- 🏁 Curso Fullstack Java — finalizado  
-- 🏁 Especialización en Desarrollo Backend — finalizada  
-- 🦈 Cursando con [BuendíaBuilders](https://buendiabuilders.com/) 🤞🏻🍀🚀
----
 
 ### 📫 ¿Conectamos?
 
